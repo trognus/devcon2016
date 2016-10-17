@@ -1,4 +1,4 @@
-# Why Angular? (10 min)
+#  Why Angular? (10 min)
 
 ## What is Angular? (2 min)
 
@@ -101,6 +101,10 @@ Well, that doesn't really work, either. The Angular team doesn't maintain links 
 
 
 # Should I switch? (5 min)
+
+Most of the core functionality has been implemented in Angular2. The only real detractors are the lack of apps available using Angular2/typescript, such as material design (not all Angular 1 libraries can upgrade) and the upgrade pains.
+
+Upgrade pains may be a thing of the past, we'll see
 
 ### Factors for
 
