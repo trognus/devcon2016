@@ -2,6 +2,8 @@
 
 ## What is Angular? (2 min)
 
+Javascript framework built around creating components with a clear distinction between the DOM and the business logic then letting Angular handle the binding between them (MVC/MVVM).
+
 Javascript framework for creating an MVC-type front-end. It consists of components (formerly directives) which are split into HTML and Typescript pieces, with Typescript services for communication, be it with another component or an external web service.
 
 
