@@ -1,0 +1,12 @@
+early slide on why we chose angular 2 and what other alternaticves are
+
+Vocabulary: Observable, Reactive, etc.
+
+state of filters/pipes?
+
+specific libraries not switched, UI-grid in addition to material
+
+Better intro to what Reactive programming is
+
+Concrete example for demo
+
