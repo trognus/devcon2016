@@ -1,4 +1,4 @@
-early slide on why we chose angular 2 and what other alternaticves are
+early slide on why we chose angular 2 and what other alternatives are
 
 Vocabulary: Observable, Reactive, etc.
 
