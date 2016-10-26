@@ -4,9 +4,10 @@ X-Vocabulary: Observable, Reactive, etc.
 
 state of filters/pipes?
 
-specific libraries not switched, UI-grid in addition to material
+X-specific libraries not switched, UI-grid in addition to material
 
 X-Better intro to what Reactive programming is
 
-Concrete example for demo
+X-Concrete example for demo
 
+Include examples of Observables used for a watch or cross-component communication
