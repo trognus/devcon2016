@@ -1,5 +1,13 @@
 names
 
+New
+Leonidas
+Raiden
+Darien
+Atreyu
+Aslan
+	Phoenix
+	
 Leo
 Raph
 Dean
@@ -9,6 +17,19 @@ Enzo
 Gotham
 Archer
 Ace
+Azure
+Asmund
+Gunnar
+Avan
+Ronin
+Orion
+Caspian
+Wolfram
+August
+*Archimedes	- Lot to live up to
+Sisco
+XKalEl	- Too on-the-nose
+
 
 
 
